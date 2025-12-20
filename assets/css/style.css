@@ -28,12 +28,13 @@ footer {
   font-size: 0.9rem;
 }
 .profile-photo {
-  width: 110px;
-  height: 110px;
+  width: 130px;
+  height: 130px;
   border-radius: 50%;
   object-fit: cover;
   display: block;
   margin: 2rem auto 1rem;
 }
+
 
 
